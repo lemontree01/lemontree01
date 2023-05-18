@@ -16,6 +16,7 @@
 <br/>
 <h3 align="left">My projects:</h3>
 <a href="https://github.com/lemontree01/e-learning-platform">Learning Platform</a>
+<br/>
 <a href="https://github.com/lemontree01/full-stack-todo">Task Planner</a>
 <!--
 **lemontree01/lemontree01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
