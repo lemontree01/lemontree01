@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maxim Tsoy</h1>
 <h3 align="center">A frontend developer</h3>
-<h3 align="left">Contact with me:</h3>
-<p align="left">
-<div id="badges">
-  <a href="https://www.linkedin.com/in/tsoy-maxim/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/lemontree01">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
-<br/>
+<!--contacts-->
 <h3 align="left">Languages and Tools:</h3>
 
 
