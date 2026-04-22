@@ -4,22 +4,22 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="32" height="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" height="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="32" height="32" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="32" height="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="32" height="32" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="32" height="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="32" height="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="32" height="32" />
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="32" height="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="32" height="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="32" height="32" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML5</a> •
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a> •
+  <a href="https://sass-lang.com/documentation/">Sass</a> •
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a> •
+  <a href="https://www.typescriptlang.org/docs/">TypeScript</a> •
+  <a href="https://react.dev/">React</a> •
+  <a href="https://nextjs.org/docs">Next.js</a> •
+  <a href="https://redux.js.org/">Redux</a> •
+  <a href="https://tailwindcss.com/docs">Tailwind CSS</a> •
+  <a href="https://webpack.js.org/concepts/">Webpack</a> •
+  <a href="https://nodejs.org/en/docs">Node.js</a> •
+  <a href="https://expressjs.com/">Express.js</a> •
+  <a href="https://graphql.org/learn/">GraphQL</a> •
+  <a href="https://www.mongodb.com/docs/">MongoDB</a> •
+  <a href="https://dev.mysql.com/doc/">MySQL</a> •
+  <a href="https://www.postgresql.org/docs/">PostgreSQL</a>
 </p>
 
 <h3 align="left">My Projects:</h3>
